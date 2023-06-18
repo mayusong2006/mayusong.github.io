@@ -103,7 +103,7 @@ theme: landscape
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: git@github.com:mayusong2006/mayusong2006.git
+  repo: git@github.com:mayusong2006/mayusong2006.github.io.git
   branch: gh-pages
   name: Ma Yusong
   email: 136667767+mayusong2006@users.noreply.github.com
